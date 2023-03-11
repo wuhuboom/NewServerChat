@@ -1,0 +1,13 @@
+# NewServerSystem 配置
+app:
+  name: "NewServerSystem"
+  mode: "dev"
+  port: 7777
+  version: "v1"
+  white: "127.0.0.11@0.0.0.0"
+  timeZone: "Asia/Kolkata"
+
+
+
+
+
